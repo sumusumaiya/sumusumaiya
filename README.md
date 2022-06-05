@@ -3,7 +3,7 @@
 ![I am MERN Stack Developer.](https://github.com/sumusumaiya/sumusumaiya/blob/main/programming-laptop-screen-php-html-css-vector-80130232%20(3).jpg)
 
 
-Skills:  HTML / CSS / SCSS / js / Node js 
+Skills:  HTML / CSS / SCSS / Tailwind CSS / js / Node js 
 
 - 🔭 I’m currently working on this page. 
 

@@ -1,5 +1,5 @@
-<h1 align="center">Hey,👋,there SumaiyA</h1>
-<h3 align="center">MERN|Stack Developer</h3>
+<h1 align="center">Hi i'm SumaiyA</h1>
+<h3 align="center">MERN| Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumusumaiya&label=Profile%20views&color=0e75b6&style=flat" alt="sumusumaiya" /> </p>
 

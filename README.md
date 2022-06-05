@@ -1,6 +1,6 @@
-### Hi 👋, i'm SumaiyA
+### Hi there 👋, Hi i'm SumaiyA
 #### I am MERN Stack Developer.
-![I am MERN Stack Developer.](https://github.com/sumusumaiya/sumusumaiya/blob/main/programming-laptop-screen-php-html-css-vector-80130232.jpg)
+![I am MERN Stack Developer.](https://github.com/sumusumaiya/sumusumaiya/blob/main/programming-laptop-screen-php-html-css-vector-80130232%20(3).jpg)
 
 
 Skills:  HTML / CSS / SCSS / js / Node js 
